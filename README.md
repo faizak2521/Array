@@ -2,6 +2,7 @@
 Using multiple arrays to store data. 
 //Faiza Khan
 
+'''
 #include <stdio.h> // Include standard input/output library
 
 // Prototypes for all functions
@@ -88,3 +89,4 @@ void displayArrays(int productIdArray[], float salesArray[]) {
         printf("%d%23.2f\n", productIdArray[i], salesArray[i]); // Print product ID and sales value
     }
 }
+'''
