@@ -2,7 +2,7 @@
 Using multiple arrays to store data. 
 //Faiza Khan
 
-'''
+
 #include <stdio.h> // Include standard input/output library
 
 // Prototypes for all functions
@@ -81,7 +81,7 @@ void updateSales(float salesArray[], int index) {
     salesArray[index] += sales; // Update sales value for corresponding product
     printf("Sales updated\n"); // Print message indicating sales updated
 }
-
+'''
 // Function 5 to display arrays
 void displayArrays(int productIdArray[], float salesArray[]) {
     printf("\nProduct Id           Sales\n\n"); // Print header for product ID and sales
